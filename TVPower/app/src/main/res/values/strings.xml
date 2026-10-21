@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TV Power</string>
+    <string name="service_desc">Turns the TV screen off when you press Power Off in TV Power, and switches to your chosen HDMI input when the TV turns on.</string>
+</resources>
